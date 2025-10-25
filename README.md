@@ -2,8 +2,8 @@
 
 # Communication-Networks
 
-   name : k.Mrudhul
-   reg no: 212222060128
+   name : Sathiya Vino P
+   reg no: 212222060231
 
 ## Step 1: Configure VLANs on Layer 3 Switch
 
